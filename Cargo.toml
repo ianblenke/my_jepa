@@ -1,0 +1,9 @@
+[package]
+name = "my_jepa"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra = "0.32"
+rand = "0.8"
+regex = "1.0"
